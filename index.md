@@ -1,8 +1,7 @@
 ---
 layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
+title: Offshore Software Development Company
+description: We are an offshore software development company with specialization is custom application development. We have State-of-the-art development center in USA and Offshore Development Center in India
 ---
 ## Custom Software Development Company
 ### Custom software development services
