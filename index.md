@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: index
 title: Offshore Software Development Company
 description: We are an offshore software development company with specialization is custom application development. We have State-of-the-art development center in USA and Offshore Development Center in India
 ---
