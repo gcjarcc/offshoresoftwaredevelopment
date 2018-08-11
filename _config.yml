@@ -1,4 +1,4 @@
-theme: macrod68/jekyll-materialize-starter-template
+remote_theme: jekyll-theme-primer
 name: Offshore Software Development
 plugins:
   - jekyll-seo-tag
