@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+theme: macrod68/jekyll-materialize-starter-template
+name: Offshore Software Development
+plugins:
+  - jekyll-seo-tag
