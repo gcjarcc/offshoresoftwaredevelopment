@@ -1,4 +1,4 @@
-remote_theme: jekyll-theme-primer
+remote_theme: fongandrew/hydeout
 name: Offshore Software Development
 plugins:
   - jekyll-seo-tag
